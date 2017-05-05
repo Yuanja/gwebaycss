@@ -201,7 +201,9 @@ p.mnd{ color:red;}
 
 
 #outerBoxitem1{ margin-bottom:13px; padding:0; box-shadow: 0 0 15px rgba(0,0,0,0.2); }
-#outerBoxitem1 p{ font-size:12px; }
+#outerBoxitem1 ul { font-size:14px; list-style:none;margin:20px 0 0;font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;color:#999;}
+#outerBoxitem1 ul li {margin:6px 0 0;font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;}
+#outerBoxitem1 ul li b{font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;}
 #outerBoxitem1 h3{ margin:10px 0 0; font-size:15px; }
  /* OuterBox Item Description */
 
