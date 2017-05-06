@@ -1,6 +1,6 @@
 <html>
 <head>
-<link href="newitem.css" rel="stylesheet" type="text/css">
+<link href="http://ec2-52-36-168-13.us-west-2.compute.amazonaws.com/gwebaycss/newitem.css" rel="stylesheet" type="text/css">
 </head>
 <body marginwidth="0" marginheight="0">
     <table align="center" style="border-spacing: 0px; width: 100%;">
@@ -18,17 +18,17 @@
                                                     <div class="Outer">
                                                         <div id="OuterContainer">
                                                             <div class="userNote">
-								<!-- Put a link to a image for announcements." -->
+								                                <!-- Put a link to a image for announcements." -->
                                                             </div>
                                                             <div id="HeaderContainer">
                                                                 <div>
                                                                     <div class="main-head">
                                                                         <div class="shoplogo">
                                                                             <div class="logo">
-										<img alt="logo Watch Dealers" src="http://ec2-52-36-168-13.us-west-2.compute.amazonaws.com/gwebaycss/images/logo.png" width="300">
+										                                          <img alt="logo Watch Dealers" src="http://ec2-52-36-168-13.us-west-2.compute.amazonaws.com/gwebaycss/images/logo.png" width="300">
                                                                             </div>
                                                                             <div class="tagline">344 North Beverly Drive, Beverly Hills, CA 90210 </div>
- 									</div>
+ 									                                    </div>
                                                                         <div id="topNav"></div>
                                                                         <div class="eclear"></div>
                                                                     </div>
@@ -47,9 +47,6 @@
                                                                         <div class="slot">
                                                                             <div id="prdDesc">
                                                                                 <div class="totalImgContainer">
-                                                                                    <!-- <div class="col-left">
-                                                                                        <div class="prevImageContainerLeft"> <span class="mdl"></span> <img id="currentImage" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-1234567890.jpg" height="283" width="330"> </div>
-                                                                                    </div> -->
                                                                                     <div class="col-right">
                                                                                           <h3 class="subTitile" style="padding:0 10px 0; color:#666; border-bottom:1px solid #eee; font-size:18px; text-align:center; ">Item description and Images</h3>
                                                                                           <img id="currentImage" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-1234567890.jpg" height="283" width="330">
@@ -94,8 +91,6 @@
                                                                         </div>
                                                                     </div>
                                                                     <!--/OuterBox Item Description-->
-                                                                  
-                                                                    
                                                                         <div class="footer">
                                                                             <h3>ABOUT US</h3>
                                                                             <p>Welcome to my Ebay shop where I have been trading safely since 2003. Thank you for visiting and for taking the time to read about me and what I do...</p>
