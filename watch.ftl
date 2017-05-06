@@ -1,6 +1,6 @@
 <html>
 <head>
-<link href="http://ec2-52-36-168-13.us-west-2.compute.amazonaws.com/gwebaycss/newitem.css" rel="stylesheet" type="text/css">
+<link href="${cssHostingBaseUrl}/newitem.css" rel="stylesheet" type="text/css">
 </head>
 <body marginwidth="0" marginheight="0">
     <table align="center" style="border-spacing: 0px; width: 100%;">
@@ -25,7 +25,7 @@
                                                                     <div class="main-head">
                                                                         <div class="shoplogo">
                                                                             <div class="logo">
-										                                          <img alt="logo Watch Dealers" src="http://ec2-52-36-168-13.us-west-2.compute.amazonaws.com/gwebaycss/images/logo.png" width="300">
+										                                          <img alt="logo Watch Dealers" src="${cssHostingBaseUrl}/images/logo.png" width="300">
                                                                             </div>
                                                                             <div class="tagline">344 North Beverly Drive, Beverly Hills, CA 90210 </div>
  									                                    </div>
@@ -42,50 +42,70 @@
                                                                 <div id="CenterContainer">
                                                                     <div id="outerBoxitem1">
                                                                         <div class="vTitle" id="editable1">
-                                                                            <p>Vintage Stainless Steel Rolex Cosmograph Daytona ref 6265</p>
+                                                                            <p>${webDescriptionShort}</p>
                                                                         </div>
                                                                         <div class="slot">
                                                                             <div id="prdDesc">
                                                                                 <div class="totalImgContainer">
                                                                                     <div class="col-right">
                                                                                           <h3 class="subTitile" style="padding:0 10px 0; color:#666; border-bottom:1px solid #eee; font-size:18px; text-align:center; ">Item description and Images</h3>
-                                                                                          <img id="currentImage" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-1234567890.jpg" height="283" width="330">
+                                                                                          <#if webImagePath1??>
+                                                                                            <img id="currentImage" src="${cssHostingBaseUrl}/images/watches/${webRecordId}-1.jpg" height="283" width="330">
+                                                                                          </#if> 
                                                                                               <ul>
-                                                                                                <li><b>Brand</b>: Patek Phillipe</li>
-                                                                                                <li><b>Model</b>: Perpetual Calendar Chronograph, reg 5970</li>
-                                                                                                <li><b>Dial</b>: White</li>
-                                                                                                <li><b>Case Size</b>: 40mm</li>
-                                                                                                <li><b>Case Thickness</b>: 13mm</li>
-                                                                                                <li><b>Bracelet Size</b>: Adjustment Strap</li>
-                                                                                                <li><b>Bracelet Material</b>: Leather</li>
-                                                                                                <li><b>Case Material</b>: Rose Gold</li>
-                                                                                                <li><b>Bezel Material</b>: Rose Gold</li>
-                                                                                                <li><b>Movement</b>: Mechanical</li>
-                                                                                                <li><b>Functions</b>: Day, Date, Month, Moonphase, Chronograph, Time</li>
-                                                                                                <li><b>Box &amp; Papers</b>: Yes</li>
-                                                                                                <li><b>SKU</b>: 117129</li>
+                                                                                                <#if webDesigner??>
+                                                                                                    <li><b>Brand</b>: ${webDesigner}</li>
+                                                                                                </#if>
+                                                                                                <#if webWatchModel??>
+                                                                                                    <li><b>Model</b>: ${webWatchModel}</li>
+                                                                                                </#if>
+                                                                                                <#if webWatchYear??>
+                                                                                                    <li><b>Year</b>: ${webWatchYear}</li>
+                                                                                                </#if>
+                                                                                                <#if webWatchManufacturerReferenceNumber??>
+                                                                                                    <li><b>Reference Number:</b>: ${webWatchManufacturerReferenceNumber}</li>
+                                                                                                </#if>
+                                                                                                <#if webWatchDial??>
+                                                                                                    <li><b>Dial</b>: ${webWatchDial}</li>
+                                                                                                </#if>
+                                                                                                <#if webWatchCase??>
+                                                                                                    <li><b>Case Size</b>: ${webWatchCase}</li>
+                                                                                                </#if>
+                                                                                                <#if webWatchMovement??>
+                                                                                                    <li><b>Watch Movement</b>: ${webWatchMovement}</li>
+                                                                                                </#if>
+                                                                                                <#if webWatchBuckle??>
+                                                                                                    <li><b>Watch Buckle</b>: ${webWatchBuckle}</li>
+                                                                                                </#if>
+                                                                                                <#if webWatchStrap??>
+                                                                                                    <li><b>Watch Strap</b>: ${webWatchStrap}</li>
+                                                                                                </#if>
+                                                                                                <#if webMetalType??>
+                                                                                                    <li><b>Watch Material</b>: ${webMetalType}</li>
+                                                                                                </#if>
+                                                                                                <li><b>SKU</b>: ${webRecordId}</li>
                                                                                               </ul>
                                                                                     </div>
                                                                                 
                                                                                 <div class="" id="">
                                                                                     <div class="prev_thumb">
-                                                                                        <img id="item_image1" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-1234567890.jpg">
-                                                                                        <img id="item_image2" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-123456789.jpg" height="57" width="75">
-                                                                                        <img id="item_image3" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-12345678.jpg" height="50" width="75">
-                                                                                        <img id="item_image4" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-123.jpg" height="50" width="75">
-                                                                                        <img id="item_image5" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-1234.jpg" height="60" width="75">
-                                                                                        <img id="item_image6" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-12345.jpg" height="63" width="75">
-                                                                                        <img id="item_image7" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-1.jpg" height="60" width="75">
-                                                                                        <img id="item_image8" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-12345678901.jpg" height="61" width="75">
-                                                                                        <img id="item_image9" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-123456789012.jpg" height="40" width="75">
-                                                                                        <img id="item_image10" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-12.jpg" height="55" width="75">
-                                                                                        <img id="item_image11" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-123456.jpg" height="62" width="75">
-                                                                                        <img id="item_image12" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-1234567.jpg" height="56" width="75">
+                                                                                        <#if webImagePath2??>
+                                                                                            <img id="item_image2" src="${cssHostingBaseUrl}/images/watches/${webRecordId}-2.jpg" height="283" width="330">
+                                                                                        </#if> 
+                                                                                        <#if webImagePath3??>
+                                                                                            <img id="item_image2" src="${cssHostingBaseUrl}/images/watches/${webRecordId}-3.jpg" height="283" width="330">
+                                                                                        </#if>
+                                                                                        <#if webImagePath4??>
+                                                                                            <img id="item_image2" src="${cssHostingBaseUrl}/images/watches/${webRecordId}-4.jpg" height="283" width="330">
+                                                                                        </#if>
+                                                                                        <#if webImagePath5??>
+                                                                                            <img id="item_image2" src="${cssHostingBaseUrl}/images/watches/${webRecordId}-5.jpg" height="283" width="330">
+                                                                                        </#if>
                                                                                     </div>
-                                                                                    <div class="eclear"><img src="http://www.watchdealers.co.uk/ebay/item/newimages/spacer.gif">
+                                                                                    <div class="eclear"><img src="${cssHostingBaseUrl}/images/spacer.gif">
                                                                                     </div>
                                                                                 </div>
-                                                                                <div class="eclear"><img src="http://www.watchdealers.co.uk/ebay/item/newimages/spacer.gif">
+                                                                                <div class="eclear"><img src="${cssHostingBaseUrl}/images/spacer.gif">
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -143,14 +163,14 @@
                                                                             <p>Our terms and conditions are designed to be simple and easy to understand. There are no hidden conditions or small print.</p>
                                                                         </div>
                                                                     </div>
-                                                                    <div class="eclear"><img src="http://www.watchdealers.co.uk/ebay/item/newimages/spacer.gif">
+                                                                    <div class="eclear"><img src="${cssHostingBaseUrl}/images/spacer.gif">
                                                                     </div>
                                                                 </div>
                                                                 <!--/CenterContainer-->
-                                                                <div class="eclear"><img src="http://www.watchdealers.co.uk/ebay/item/newimages/spacer.gif">
+                                                                <div class="eclear"><img src="${cssHostingBaseUrl}/images/spacer.gif">
                                                                 </div>
                                                             </div>
-                                                            <div class="eclear"><img src="http://www.watchdealers.co.uk/ebay/item/newimages/spacer.gif">
+                                                            <div class="eclear"><img src="${cssHostingBaseUrl}/images/spacer.gif">
                                                             </div>
                                                         </div>
                                                     </div>
