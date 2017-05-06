@@ -25,7 +25,7 @@
                                                                     <div class="main-head">
                                                                         <div class="shoplogo">
                                                                             <div class="logo">
-										<img alt="logo Watch Dealers" src="http://www.gruenbergwholesale.com/image/catalog/logo.png" width="300">
+										<img alt="logo Watch Dealers" src="http://ec2-52-36-168-13.us-west-2.compute.amazonaws.com/gwebaycss/images/logo.png" width="300">
                                                                             </div>
                                                                             <div class="tagline">344 North Beverly Drive, Beverly Hills, CA 90210 </div>
  									</div>
