@@ -1,4 +1,3 @@
-<html>
 <head>
 <link href="${cssHostingBaseUrl}/newitem.css" rel="stylesheet" type="text/css">
 </head>
@@ -191,4 +190,3 @@
         </tbody>
     </table><span id="closeHtml"></span>
 </body>
-</html>
