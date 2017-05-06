@@ -53,35 +53,37 @@
                                                                                     <div class="col-right">
                                                                                           <h3 class="subTitile" style="padding:0 10px 0; color:#666; border-bottom:1px solid #eee; font-size:18px; text-align:center; ">Item description and Images</h3>
                                                                                           <img id="currentImage" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-1234567890.jpg" height="283" width="330">
-                                                                                            <p>An extremely rare opportunity to acquire one of the world's most sought after sports watches, the Rolex Cosmograph Daytona ref 6265.I first purchased this watch back in 2012 from its owner who purchased it brand new in Norwich in 1979. <em>(Watch was actually made in 1971)</em> It comes with its original Rolex inner and outer box, instruction booklet and warranty.It benefits from the Silver Sigma dial and also has an old Rolex service card present along with a signed letter from its original owner. I sold this watch to a collector in 2012 and have just secured its return to stock. Condition is excellent, usual light surface marks commensurate with age and authenticity.Video of watch is also available. Please feel free to call for further information.Please review my sales history and feedback here on Ebay where I have been selling Rolex watches since 2003 and within the watch industry since 1975. Thank you for looking, <em> &#8212; Paul.</em></p>
+                                                                                              <ul>
+                                                                                                <li><b>Brand</b>: Patek Phillipe</li>
+                                                                                                <li><b>Model</b>: Perpetual Calendar Chronograph, reg 5970</li>
+                                                                                                <li><b>Dial</b>: White</li>
+                                                                                                <li><b>Case Size</b>: 40mm</li>
+                                                                                                <li><b>Case Thickness</b>: 13mm</li>
+                                                                                                <li><b>Bracelet Size</b>: Adjustment Strap</li>
+                                                                                                <li><b>Bracelet Material</b>: Leather</li>
+                                                                                                <li><b>Case Material</b>: Rose Gold</li>
+                                                                                                <li><b>Bezel Material</b>: Rose Gold</li>
+                                                                                                <li><b>Movement</b>: Mechanical</li>
+                                                                                                <li><b>Functions</b>: Day, Date, Month, Moonphase, Chronograph, Time</li>
+                                                                                                <li><b>Box &amp; Papers</b>: Yes</li>
+                                                                                                <li><b>SKU</b>: 117129</li>
+                                                                                              </ul>
                                                                                     </div>
                                                                                 
                                                                                 <div class="" id="">
                                                                                     <div class="prev_thumb">
-                                                                                        <a href="javascript:void(0)"><img id="item_image1" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-1234567890.jpg" height="64" width="75">
-                                                                                        </a>
-                                                                                        <a href="javascript:void(0)"><img id="item_image2" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-123456789.jpg" height="57" width="75">
-                                                                                        </a>
-                                                                                        <a href="javascript:void(0)"><img id="item_image3" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-12345678.jpg" height="50" width="75">
-                                                                                        </a>
-                                                                                        <a href="javascript:void(0)"><img id="item_image4" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-123.jpg" height="50" width="75">
-                                                                                        </a>
-                                                                                        <a href="javascript:void(0)"><img id="item_image5" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-1234.jpg" height="60" width="75">
-                                                                                        </a>
-                                                                                        <a href="javascript:void(0)"><img id="item_image6" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-12345.jpg" height="63" width="75">
-                                                                                        </a>
-                                                                                        <a href="javascript:void(0)"><img id="item_image7" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-1.jpg" height="60" width="75">
-                                                                                        </a>
-                                                                                        <a href="javascript:void(0)"><img id="item_image8" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-12345678901.jpg" height="61" width="75">
-                                                                                        </a>
-                                                                                        <a href="javascript:void(0)"><img id="item_image9" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-123456789012.jpg" height="40" width="75">
-                                                                                        </a>
-                                                                                        <a href="javascript:void(0)"><img id="item_image10" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-12.jpg" height="55" width="75">
-                                                                                        </a>
-                                                                                        <a href="javascript:void(0)"><img id="item_image11" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-123456.jpg" height="62" width="75">
-                                                                                        </a>
-                                                                                        <a href="javascript:void(0)"><img id="item_image12" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-1234567.jpg" height="56" width="75">
-                                                                                        </a>
+                                                                                        <img id="item_image1" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-1234567890.jpg">
+                                                                                        <img id="item_image2" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-123456789.jpg" height="57" width="75">
+                                                                                        <img id="item_image3" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-12345678.jpg" height="50" width="75">
+                                                                                        <img id="item_image4" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-123.jpg" height="50" width="75">
+                                                                                        <img id="item_image5" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-1234.jpg" height="60" width="75">
+                                                                                        <img id="item_image6" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-12345.jpg" height="63" width="75">
+                                                                                        <img id="item_image7" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-1.jpg" height="60" width="75">
+                                                                                        <img id="item_image8" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-12345678901.jpg" height="61" width="75">
+                                                                                        <img id="item_image9" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-123456789012.jpg" height="40" width="75">
+                                                                                        <img id="item_image10" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-12.jpg" height="55" width="75">
+                                                                                        <img id="item_image11" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-123456.jpg" height="62" width="75">
+                                                                                        <img id="item_image12" onclick="changeImage(this)" src="http://www.watchdealers.co.uk/image/data/uploads/Rolex-Daytona-4138-1234567.jpg" height="56" width="75">
                                                                                     </div>
                                                                                     <div class="eclear"><img src="http://www.watchdealers.co.uk/ebay/item/newimages/spacer.gif">
                                                                                     </div>
