@@ -129,6 +129,9 @@
                                                                                 <h3>Thanks and Happy Watch-Hunting! </h3>
                                                                                 </li>
                                                                             </ul>
+                                                                            <div class="btmImg">
+                                                                              <img src="images/FullSizeRender.jpg">
+                                                                            </div>
                                                                             <div class="eclear"><img src="${cssHostingBaseUrl}/images/spacer.gif"></div>
                                                                         </div>
                                                                     </div>

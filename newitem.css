@@ -306,6 +306,7 @@ div.prev_thumb a{ overflow:hidden!important}
 #outerBoxitem1 .footer {padding:20px 0 40px;background:#fff;}
 #outerBoxitem1 .footer ul {padding: 0 20px;width: 100%;}
 #outerBoxitem1 .footer ul li {float: left;padding: 0 30px;max-width: 400px;}
+#outerBoxitem1 .footer .btmImg img {max-height: 647px;width: auto;}
 #-foot{ text-align:center; }
 #-foot .slot{ width:1096px; height:80px;  margin:0 auto; }
 .join{ display:none; float:right; margin-top:14px; }
