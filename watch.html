@@ -126,7 +126,9 @@
                                                                                 <h3>Attention to Details</h3>
                                                                                 <p>Each piece at GRUENBERG WATCHES is handled with the utmost care. Attention to detail and complete transparency is everything to us. Each watch is examined prior to purchase and goes through extensive tests for accurate timekeeping and authenticity.</p>
                                                                                 <p>Our in-house watchmaker certifies all watches with a one-year service warranty just in case a mechanical problem occurs. And of course we are available to help with your question or concern so feel free to call us, Monday-Friday, 10am-5pm PST at +1 (310) 273-4577.</p>
-                                                                                <h3>Thanks and Happy Watch-Hunting! </h3>
+                                                                                </li>
+                                                                                <li>
+                                                                                  <h3>Thanks and Happy Watch-Hunting! </h3>
                                                                                 </li>
                                                                             </ul>
                                                                             <div class="btmImg">
