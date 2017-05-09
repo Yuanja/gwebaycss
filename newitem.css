@@ -306,7 +306,7 @@ div.prev_thumb a{ overflow:hidden!important}
 #outerBoxitem1 .footer {padding:20px 20px 40px;background:#fff;}
 #outerBoxitem1 .footer ul {padding: 0 0 20px;width: 100%;}
 #outerBoxitem1 .footer ul li {padding: 0 0 20px;}
-#outerBoxitem1 .footer ul li h3 {font-size:24px;font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;}
+#outerBoxitem1 .footer ul li h3 {font-size:24px;font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;color:#000;}
 #outerBoxitem1 .footer ul li p {font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;}
 #outerBoxitem1 .footer .btmImg img {max-height: 617px;width: auto;}
 #-foot{ text-align:center; }
