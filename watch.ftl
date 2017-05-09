@@ -92,16 +92,19 @@
                                                                                 <div class="" id="">
                                                                                     <div class="prev_thumb">
                                                                                         <#if webImagePath2??>
+                                                                                            <img id="item_image1" src="${cssHostingBaseUrl}/images/watches/${webTagNumber}-1.jpg" height="283" >
+                                                                                        </#if> 
+                                                                                        <#if webImagePath2??>
                                                                                             <img id="item_image2" src="${cssHostingBaseUrl}/images/watches/${webTagNumber}-2.jpg" height="283" >
                                                                                         </#if> 
                                                                                         <#if webImagePath3??>
-                                                                                            <img id="item_image2" src="${cssHostingBaseUrl}/images/watches/${webTagNumber}-3.jpg" height="283" >
+                                                                                            <img id="item_image3" src="${cssHostingBaseUrl}/images/watches/${webTagNumber}-3.jpg" height="283" >
                                                                                         </#if>
                                                                                         <#if webImagePath4??>
-                                                                                            <img id="item_image2" src="${cssHostingBaseUrl}/images/watches/${webTagNumber}-4.jpg" height="283" >
+                                                                                            <img id="item_image4" src="${cssHostingBaseUrl}/images/watches/${webTagNumber}-4.jpg" height="283" >
                                                                                         </#if>
                                                                                         <#if webImagePath5??>
-                                                                                            <img id="item_image2" src="${cssHostingBaseUrl}/images/watches/${webTagNumber}-5.jpg" height="283" >
+                                                                                            <img id="item_image5" src="${cssHostingBaseUrl}/images/watches/${webTagNumber}-5.jpg" height="283" >
                                                                                         </#if>
                                                                                     </div>
                                                                                     <div class="eclear"><img src="${cssHostingBaseUrl}/images/spacer.gif">
