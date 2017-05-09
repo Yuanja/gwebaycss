@@ -130,7 +130,7 @@
                                                                                 </li>
                                                                             </ul>
                                                                             <div class="btmImg">
-                                                                              <img src="images/FullSizeRender.jpg">
+                                                                              <img src="${cssHostingBaseUrl}/images/FullSizeRender.jpg">
                                                                             </div>
                                                                             <div class="eclear"><img src="${cssHostingBaseUrl}/images/spacer.gif"></div>
                                                                         </div>
