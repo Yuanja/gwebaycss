@@ -52,6 +52,12 @@
                                                                                             <img id="currentImage" src="${cssHostingBaseUrl}/images/watches/${webTagNumber}-1.jpg" height="283">
                                                                                           </#if> 
                                                                                               <ul>
+                                                                                                <#if webWatchCondition??>
+                                                                                                    <li><b>Condition</b>: ${webWatchCondition}</li>
+                                                                                                </#if>
+                                                                                                <#if webStyle??>
+                                                                                                    <li><b>Gender</b>: ${webStyle}</li>
+                                                                                                </#if>
                                                                                                 <#if webDesigner??>
                                                                                                     <li><b>Brand</b>: ${webDesigner}</li>
                                                                                                 </#if>
@@ -82,9 +88,6 @@
                                                                                                 <#if webWatchBoxPapers??>
                                                                                                     <li><b>Box/Paper</b>: ${webWatchBoxPapers}</li>
                                                                                                 </#if>
-                                                                                                <#if webWatchCondition??>
-                                                                                                    <li><b>Condition</b>: ${webWatchCondition}</li>
-                                                                                                </#if>
                                                                                                 <li><b>SKU</b>: ${webTagNumber}</li>
                                                                                               </ul>
                                                                                     </div>
@@ -105,6 +108,18 @@
                                                                                         </#if>
                                                                                         <#if webImagePath5??>
                                                                                             <img id="item_image5" src="${cssHostingBaseUrl}/images/watches/${webTagNumber}-5.jpg" height="283" >
+                                                                                        </#if>
+                                                                                        <#if webImagePath6??>
+                                                                                            <img id="item_image6" src="${cssHostingBaseUrl}/images/watches/${webTagNumber}-6.jpg" height="283" >
+                                                                                        </#if>
+                                                                                        <#if webImagePath7??>
+                                                                                            <img id="item_image7" src="${cssHostingBaseUrl}/images/watches/${webTagNumber}-7.jpg" height="283" >
+                                                                                        </#if>
+                                                                                        <#if webImagePath8??>
+                                                                                            <img id="item_image8" src="${cssHostingBaseUrl}/images/watches/${webTagNumber}-8.jpg" height="283" >
+                                                                                        </#if>
+                                                                                        <#if webImagePath9??>
+                                                                                            <img id="item_image9" src="${cssHostingBaseUrl}/images/watches/${webTagNumber}-9.jpg" height="283" >
                                                                                         </#if>
                                                                                     </div>
                                                                                     <div class="eclear"><img src="${cssHostingBaseUrl}/images/spacer.gif">
