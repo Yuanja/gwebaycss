@@ -52,12 +52,6 @@
                                                                                             <img id="currentImage" src="${cssHostingBaseUrl}/images/watches/${webTagNumber}-1.jpg" height="283">
                                                                                           </#if> 
                                                                                               <ul>
-                                                                                                <#if webWatchCondition??>
-                                                                                                    <li><b>Condition</b>: ${webWatchCondition}</li>
-                                                                                                </#if>
-                                                                                                <#if webStyle??>
-                                                                                                    <li><b>Gender</b>: ${webStyle}</li>
-                                                                                                </#if>
                                                                                                 <#if webDesigner??>
                                                                                                     <li><b>Brand</b>: ${webDesigner}</li>
                                                                                                 </#if>
@@ -66,6 +60,9 @@
                                                                                                 </#if>
                                                                                                 <#if webWatchManufacturerReferenceNumber??>
                                                                                                     <li><b>Reference</b>: ${webWatchManufacturerReferenceNumber}</li>
+                                                                                                </#if>
+                                                                                                <#if webStyle??>
+                                                                                                    <li><b>Gender</b>: ${webStyle}</li>
                                                                                                 </#if>
                                                                                                 <#if webWatchYear??>
                                                                                                     <li><b>Year</b>: ${webWatchYear}</li>
@@ -87,6 +84,9 @@
                                                                                                 </#if>
                                                                                                 <#if webWatchBoxPapers??>
                                                                                                     <li><b>Box/Paper</b>: ${webWatchBoxPapers}</li>
+                                                                                                </#if>
+                                                                                                <#if webWatchCondition??>
+                                                                                                    <li><b>Condition</b>: ${webWatchCondition}</li>
                                                                                                 </#if>
                                                                                                 <li><b>SKU</b>: ${webTagNumber}</li>
                                                                                               </ul>
